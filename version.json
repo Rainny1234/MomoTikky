@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.1.0",
+  "latest_version": "1.1.2",
   "download_url": "https://github.com/Rainny1234/MomoTikky/releases/download/V1.1.2/MomoTikky_Setup_v1.1.2.exe",
   "changelog": "- ปรับปรุงระบบ Caching และ Cloud Sync",
   "is_mandatory": false
