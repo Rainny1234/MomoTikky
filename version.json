@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.1.12",
-  "download_url": "https://github.com/Rainny1234/MomoTikky/releases/download/V1.1.12/MomoTikky_Setup_v1.1.12.exe",
-  "changelog": "- ปรับปรุงระบบ action & event ให้ใช้งานได้ beta แก้ให้ save ค่า action จริงได้",
+  "latest_version": "1.1.20",
+  "download_url": "https://github.com/Rainny1234/MomoTikky/releases/download/V1.1.20/MomoTikky_Setup_v1.1.20.exe",
+  "changelog": "- ปรับปรุงระบบ action & event ให้ใช้งานได้ แก้รูปแบบหน้าตา ui v.1",
   "is_mandatory": false
 }
