@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.1.30",
-  "download_url": "https://github.com/Rainny1234/MomoTikky/releases/download/v.1.1.30/MomoTikky_Setup_v1.1.30.exe",
-  "changelog": "- ปรับปรุงระบบ เพิ่ม login discord",
+  "latest_version": "1.1.31",
+  "download_url": "https://github.com/Rainny1234/MomoTikky/releases/download/V1.1.31/MomoTikky_Setup_v1.1.31.exe",
+  "changelog": "- ปรับปรุงระบบ เพิ่ม แก้ไขระบบสิทธิ์การใช้งาน",
   "is_mandatory": false
 }
