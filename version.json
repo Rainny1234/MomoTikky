@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.1.31",
-  "download_url": "https://github.com/Rainny1234/MomoTikky/releases/download/V1.1.31/MomoTikky_Setup_v1.1.31.exe",
-  "changelog": "- ปรับปรุงระบบ เพิ่ม แก้ไขระบบสิทธิ์การใช้งาน",
+  "latest_version": "1.1.32",
+  "download_url": "https://github.com/Rainny1234/MomoTikky/releases/download/V1.1.32/MomoTikky_Setup_v1.1.32.exe",
+  "changelog": "- ปรับปรุงระบบ แก้ไขระบบรูปของขวัญไม่ขึ้น และปรับ UI บางส่วน",
   "is_mandatory": false
 }
