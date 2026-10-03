@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.1.35",
-  "download_url": "https://github.com/Rainny1234/MomoTikky/releases/download/V1.1.35/MomoTikky_Setup_v1.1.35.exe",
-  "changelog": "- ปรับปรุงระบบ อัพเดตระบบใส่เสียงที่ event / เปลี่ยน fonts ",
+  "latest_version": "1.1.36",
+  "download_url": "https://github.com/Rainny1234/MomoTikky/releases/download/V1.1.36/MomoTikky_Setup_v1.1.36.exe",
+  "changelog": "- ปรับปรุงระบบ อัพเดตระบบใส่เสียงที่ event / ปรับ ui ",
   "is_mandatory": false
 }
