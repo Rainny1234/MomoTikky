@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.1.40",
-  "download_url": "https://github.com/Rainny1234/MomoTikky/releases/download/V1.1.40/LiveStye_Setup_v1.1.40.exe",
-  "changelog": "- ปรับปรุงระบบ อัพเดตระบบใส่เสียงที่ event / ปรับ ui ",
+  "latest_version": "1.1.44",
+  "download_url": "https://github.com/Rainny1234/MomoTikky/releases/download/V1.1.44/LiveStye_Setup_v1.1.44.exe",
+  "changelog": "- ปรับปรุงระบบ อัพเดตระบบ Spin สุ่ม event action  ",
   "is_mandatory": false
 }
