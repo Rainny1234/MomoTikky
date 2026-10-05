@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.1.45",
-  "download_url": "https://github.com/Rainny1234/MomoTikky/releases/download/V1.1.45/LiveStye_Setup_v1.1.45.exe",
-  "changelog": "- ปรับปรุงระบบ อัพเดตระบบ Spin สุ่ม event action  ",
+  "latest_version": "1.1.53",
+  "download_url": "https://github.com/Rainny1234/MomoTikky/releases/download/V1.1.53/LiveStye_Setup_v1.1.53.exe",
+  "changelog": "- ปรับปรุงระบบ อัพเดตระบบ overlay likes  ",
   "is_mandatory": false
 }
