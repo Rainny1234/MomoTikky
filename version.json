@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.2.13",
-  "download_url": "https://github.com/Rainny1234/MomoTikky/releases/download/v1.2.13/LiveStye.Setup.1.2.13.exe",
-  "changelog": "- ปรับปรุงระบบ อัพเดตระบบใหม่ เพิ่ม tts overlay แบบใหม่และ แจ้งเตือนของขวัญ  ",
+  "latest_version": "1.2.20",
+  "download_url": "https://github.com/Rainny1234/MomoTikky/releases/download/v1.2.20/LiveStye.Setup.1.2.20.exe",
+  "changelog": "- ปรับปรุงระบบ อัพเดตระบบใหม่ เพิ่มเกม ชานม !! ระบบกดติดตาม กดใจ  ",
   "is_mandatory": false
 }
